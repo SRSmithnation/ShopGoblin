@@ -1,0 +1,2 @@
+# ShopGoblin
+Shopify Theme
